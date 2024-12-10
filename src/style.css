@@ -160,6 +160,11 @@ nav {
     color: var(--light-blue);
 }
 
+img{
+    content: url("./assets/react.svg");
+    margin: 0 auto;
+}
+
 h1 {
     font-size: larger;
     font-weight: bold;
